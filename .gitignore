@@ -1,0 +1,5 @@
+error.log
+admin/assets/vendor
+config/env/.config.json
+config/env/.database.json
+.DS_Store
